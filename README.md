@@ -128,10 +128,7 @@ Flywheel-Pendulum_public/
 ├── analysis/
 │   └── ...
 ├── media/
-│   ├── pendulum_photo.jpg
-│   ├── closed_loop_response.png
-│   ├── steady_state_rmse.png
-│   └── kalman_estimation.png
+│   └── ...
 └── portfolio.pdf
 ```
 
