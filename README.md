@@ -6,7 +6,7 @@ An independently designed and built reaction-wheel inverted pendulum featuring a
 
 The system uses a motor-driven reaction wheel to swing the pendulum toward its upright equilibrium and maintain balance through closed-loop feedback.
 
-![Reaction-Wheel Inverted Pendulum](media/pendulum_photo.jpg)
+![Reaction-Wheel Inverted Pendulum](media/pendulum_photo.jpeg)
 
 *Completed reaction-wheel inverted pendulum assembly.*
 
