@@ -10,7 +10,7 @@ The system uses a motor-driven reaction wheel to swing the pendulum toward its u
 
 *Completed reaction-wheel inverted pendulum assembly.*
 
-**[Watch Demonstration](https://drive.google.com/file/d/1vWG1p10eW9-N5SWY90kSmuteKPGhl7yd/view?usp=sharing)** | **[View Technical Portfolio](INSERT_PDF_LINK)**
+**[Watch Demonstration](https://drive.google.com/file/d/1vWG1p10eW9-N5SWY90kSmuteKPGhl7yd/view?usp=sharing)** | **[View Technical Portfolio](FWPendulumPF.pdf)**
 
 ## Key Results
 
