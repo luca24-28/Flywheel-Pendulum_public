@@ -80,7 +80,7 @@ The observer combines pendulum angle, flywheel speed, and motor current measurem
 
 ### Steady-State Performance
 
-![Steady-State RMSE](media/steady_state_rmse.png)
+![Steady-State RMSE](media/9trialRMSEplot.png)
 
 *Angular RMSE across nine experimental trials.*
 
