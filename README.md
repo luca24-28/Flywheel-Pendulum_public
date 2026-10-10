@@ -10,7 +10,7 @@ The system uses a motor-driven reaction wheel to swing the pendulum toward its u
 
 *Completed reaction-wheel inverted pendulum assembly.*
 
-**[Watch Demonstration](INSERT_VIDEO_LINK)** | **[View Technical Portfolio](INSERT_PDF_LINK)**
+**[Watch Demonstration]((https://drive.google.com/file/d/1vWG1p10eW9-N5SWY90kSmuteKPGhl7yd/view?usp=sharing))** | **[View Technical Portfolio](INSERT_PDF_LINK)**
 
 ## Key Results
 
@@ -74,7 +74,7 @@ The observer combines pendulum angle, flywheel speed, and motor current measurem
 
 ### Closed-Loop Stabilization
 
-![Closed-Loop Response](media/closed_loop_response.png)
+![Closed-Loop Response](media/longtheta(best).png)
 
 *Pendulum angle during the catch transient and subsequent stabilization.*
 
@@ -88,9 +88,9 @@ Across nine experiments, the system achieved successful catches and maintained b
 
 ### Kalman Filter Performance
 
-![State Estimation](media/kalman_estimation.png)
+![State Estimation](media/thetahatlong.png)
 
-*Comparison of measured and estimated states.*
+*Comparison of measured and estimated pendulum angle.*
 
 The estimator achieved a mean angular estimation RMSE of 0.072° relative to encoder measurements. Flywheel-speed estimation also reduced measured signal variation by an average of 43.8%.
 
